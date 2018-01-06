@@ -3,4 +3,4 @@
 ----
 你需要一台pc和一台HoloLens才可以运行本程序
 
-pc上需要部署vs2017环境，unity3d应从这里(https://unity3d.com/cn/get-unity/download)下载
+pc上需要部署vs2017环境，unity3d应从[这里](https://unity3d.com/cn/get-unity/download)下载
